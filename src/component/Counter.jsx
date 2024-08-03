@@ -28,9 +28,10 @@ function Counter() {
       <center>
         <div style={{height:'150px'}}>
           <br></br>
-          
+
           
            <h1>{count} </h1>
+           
   
         </div>        <div>
            <Button onClick={()=>dispatch(increment(Number(range)))} variant="contained" color='success'>Increment</Button>
