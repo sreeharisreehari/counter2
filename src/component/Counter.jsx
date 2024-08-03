@@ -24,6 +24,7 @@ function Counter() {
        <div style={{height:'100vh'}} className='d-flex justify-content-center align-items-center w-100 bg-dark'>
      <div className='bg-light p-5 rounded' style={{width:'500px'}}> <h1 style={{color:'blue'}}>Counter Application</h1>
      
+     
       <div> 
       <center>
         <div style={{height:'150px'}}>
@@ -31,7 +32,7 @@ function Counter() {
 
           
            <h1>{count} </h1>
-           
+
   
         </div>        <div>
            <Button onClick={()=>dispatch(increment(Number(range)))} variant="contained" color='success'>Increment</Button>
