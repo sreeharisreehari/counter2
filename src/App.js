@@ -16,6 +16,7 @@ function App() {
        <div style={{height:'100vh'}} className='d-flex justify-content-center align-items-center w-100 bg-dark'>
 
      <Counter/>
+     
      </div>
      
 
