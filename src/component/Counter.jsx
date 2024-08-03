@@ -29,6 +29,7 @@ function Counter() {
         <div style={{height:'150px'}}>
           <br></br>
           
+          
            <h1>{count} </h1>
   
         </div>        <div>
