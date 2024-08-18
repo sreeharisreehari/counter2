@@ -26,7 +26,7 @@ function Counter() {
      
      
       <div>  
-      <center>
+      <center> 
         <div style={{height:'150px'}}>
           <br></br>
 
