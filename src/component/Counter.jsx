@@ -25,7 +25,7 @@ function Counter() {
      <div className='bg-light p-5 rounded' style={{width:'500px'}}> <h1 style={{color:'blue'}}>Counter Application</h1>
      
      
-      <div> 
+      <div>  
       <center>
         <div style={{height:'150px'}}>
           <br></br>
